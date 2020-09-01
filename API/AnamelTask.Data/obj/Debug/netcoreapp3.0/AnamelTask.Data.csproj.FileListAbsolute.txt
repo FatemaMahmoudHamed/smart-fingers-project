@@ -18,3 +18,13 @@ E:\AnamelTask\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.Assemb
 E:\AnamelTask\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.AssemblyInfo.cs
 E:\AnamelTask\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.dll
 E:\AnamelTask\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\bin\Debug\netcoreapp3.0\AnamelTask.Data.deps.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\bin\Debug\netcoreapp3.0\AnamelTask.Data.runtimeconfig.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\bin\Debug\netcoreapp3.0\AnamelTask.Data.runtimeconfig.dev.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\bin\Debug\netcoreapp3.0\AnamelTask.Data.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\bin\Debug\netcoreapp3.0\AnamelTask.Data.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.csprojAssemblyReference.cache
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.AssemblyInfoInputs.cache
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.AssemblyInfo.cs
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Data\obj\Debug\netcoreapp3.0\AnamelTask.Data.pdb

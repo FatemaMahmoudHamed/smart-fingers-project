@@ -1015,6 +1015,7 @@
       },
       "AnamelTask.UserData/1.0.0": {
         "dependencies": {
+          "AnamelTask.Data": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.2.0",
           "Microsoft.EntityFrameworkCore": "2.2.4",
           "Microsoft.EntityFrameworkCore.Design": "2.2.4",

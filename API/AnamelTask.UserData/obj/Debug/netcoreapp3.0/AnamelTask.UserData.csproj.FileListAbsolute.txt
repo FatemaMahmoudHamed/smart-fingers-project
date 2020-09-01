@@ -18,3 +18,16 @@ E:\AnamelTask\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserDat
 E:\AnamelTask\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.AssemblyInfo.cs
 E:\AnamelTask\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.dll
 E:\AnamelTask\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.UserData.deps.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.UserData.runtimeconfig.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.UserData.runtimeconfig.dev.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.UserData.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.UserData.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.Data.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\bin\Debug\netcoreapp3.0\AnamelTask.Data.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.csprojAssemblyReference.cache
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.AssemblyInfoInputs.cache
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.AssemblyInfo.cs
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.csproj.CopyComplete
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.UserData\obj\Debug\netcoreapp3.0\AnamelTask.UserData.pdb

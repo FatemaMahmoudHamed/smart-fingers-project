@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AnamelTask.UserData.DbModels;
+using AnamelTask.Data.DataContext;
+
 namespace AnamelTask.UserData.DtaContext
 {
     public class DataSeedingIntilization
@@ -17,13 +19,13 @@ namespace AnamelTask.UserData.DtaContext
         {
             _userDbContext = userDbContext;
             userDbContext.Database.EnsureCreated();
+            
             _serviceProvider = serviceProvider;
-
             var serviceScope = _serviceProvider.GetRequiredService<IServiceScopeFactory>().CreateScope();
+
             _userManager = serviceScope.ServiceProvider.GetService<UserManager<ApplicationUser>>();
 
             SeedApplicationDefaultAdmin();
-
             _userDbContext.SaveChanges();
         }
 

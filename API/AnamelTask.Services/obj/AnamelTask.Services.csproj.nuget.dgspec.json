@@ -284,7 +284,11 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
+                "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

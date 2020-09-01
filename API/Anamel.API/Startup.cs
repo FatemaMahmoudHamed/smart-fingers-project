@@ -103,7 +103,7 @@ namespace Anamel.API
             return new AutofacServiceProvider(container);
         }
 
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IServiceProvider serviceProvider, UserDbContext userDbContext)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IServiceProvider serviceProvider, UserDbContext userDbContext, TaskDbContext taskDbContext)
         {
 
             app.UseRequestLocalization();
@@ -137,6 +137,7 @@ namespace Anamel.API
             app.UseAuthentication();
 
             DataSeedingIntilization.Seed(userDbContext, serviceProvider);
+            TaskDataSeedingIntilization.Seed(taskDbContext);
 
             app.UseEndpoints(endpoints =>
             {

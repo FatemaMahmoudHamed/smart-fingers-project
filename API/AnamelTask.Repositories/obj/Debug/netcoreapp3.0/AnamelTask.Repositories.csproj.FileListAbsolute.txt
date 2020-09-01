@@ -24,3 +24,16 @@ E:\AnamelTask\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Rep
 E:\AnamelTask\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.csproj.CopyComplete
 E:\AnamelTask\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.dll
 E:\AnamelTask\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.Repositories.deps.json
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.Repositories.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.Repositories.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.Data.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.UserData.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.Data.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\bin\Debug\netcoreapp3.0\AnamelTask.UserData.pdb
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.csprojAssemblyReference.cache
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.AssemblyInfoInputs.cache
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.AssemblyInfo.cs
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.csproj.CopyComplete
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.dll
+E:\AnamelTask\smart-fingers-task\smart-fingers-project\API\AnamelTask.Repositories\obj\Debug\netcoreapp3.0\AnamelTask.Repositories.pdb
