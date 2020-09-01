@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj": {}
+    "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj": {}
   },
   "projects": {
-    "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
+    "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj",
+        "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj",
         "projectName": "AnamelTask.Data",
-        "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj",
+        "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\obj\\",
+        "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -94,14 +94,14 @@
         }
       }
     },
-    "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj": {
+    "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
+        "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
         "projectName": "AnamelTask.Repositories",
-        "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
+        "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\obj\\",
+        "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -123,11 +123,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
-                "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj"
+              "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
+                "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj"
               },
-              "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj": {
-                "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj"
+              "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj": {
+                "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj"
               }
             }
           }
@@ -169,14 +169,14 @@
         }
       }
     },
-    "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj": {
+    "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
+        "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
         "projectName": "AnamelTask.UserData",
-        "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
+        "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\obj\\",
+        "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

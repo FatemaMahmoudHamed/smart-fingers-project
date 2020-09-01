@@ -4041,11 +4041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
+      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
       "projectName": "AnamelTask.UserData",
-      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
+      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj",
       "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\obj\\",
+      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

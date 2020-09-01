@@ -4356,11 +4356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Services\\AnamelTask.Services.csproj",
+      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Services\\AnamelTask.Services.csproj",
       "projectName": "AnamelTask.Services",
-      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Services\\AnamelTask.Services.csproj",
+      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Services\\AnamelTask.Services.csproj",
       "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Services\\obj\\",
+      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4382,11 +4382,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj": {
-              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj"
+            "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj": {
+              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj"
             },
-            "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj": {
-              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj"
+            "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj": {
+              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj"
             }
           }
         }

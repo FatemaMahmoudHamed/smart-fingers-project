@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj",
+      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj",
       "projectName": "AnamelTask.ViewModel",
-      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj",
+      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.ViewModel\\AnamelTask.ViewModel.csproj",
       "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.ViewModel\\obj\\",
+      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

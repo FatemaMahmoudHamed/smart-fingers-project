@@ -4048,11 +4048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
+      "projectUniqueName": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
       "projectName": "AnamelTask.Repositories",
-      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
+      "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\AnamelTask.Repositories.csproj",
       "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Repositories\\obj\\",
+      "outputPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -4074,11 +4074,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
-              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.Data\\AnamelTask.Data.csproj"
+            "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj": {
+              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.Data\\AnamelTask.Data.csproj"
             },
-            "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj": {
-              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj"
+            "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj": {
+              "projectPath": "E:\\AnamelTask\\smart-fingers-task\\smart-fingers-project\\API\\AnamelTask.UserData\\AnamelTask.UserData.csproj"
             }
           }
         }
