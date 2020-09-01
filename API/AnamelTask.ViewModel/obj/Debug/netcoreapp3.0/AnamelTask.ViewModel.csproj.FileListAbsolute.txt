@@ -1,0 +1,8 @@
+E:\AnamelTask\AnamelTask.ViewModel\bin\Debug\netcoreapp3.0\AnamelTask.ViewModel.deps.json
+E:\AnamelTask\AnamelTask.ViewModel\bin\Debug\netcoreapp3.0\AnamelTask.ViewModel.dll
+E:\AnamelTask\AnamelTask.ViewModel\bin\Debug\netcoreapp3.0\AnamelTask.ViewModel.pdb
+E:\AnamelTask\AnamelTask.ViewModel\obj\Debug\netcoreapp3.0\AnamelTask.ViewModel.csprojAssemblyReference.cache
+E:\AnamelTask\AnamelTask.ViewModel\obj\Debug\netcoreapp3.0\AnamelTask.ViewModel.AssemblyInfoInputs.cache
+E:\AnamelTask\AnamelTask.ViewModel\obj\Debug\netcoreapp3.0\AnamelTask.ViewModel.AssemblyInfo.cs
+E:\AnamelTask\AnamelTask.ViewModel\obj\Debug\netcoreapp3.0\AnamelTask.ViewModel.dll
+E:\AnamelTask\AnamelTask.ViewModel\obj\Debug\netcoreapp3.0\AnamelTask.ViewModel.pdb
